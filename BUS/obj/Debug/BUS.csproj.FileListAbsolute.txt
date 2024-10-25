@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\BUS.dll.config
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\BUS.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\BUS.pdb
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\EntityFramework.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\EntityFramework.xml
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.pdb
+=======
+D:\doan\vukiennghi\BUS\bin\Debug\BUS.dll.config
+D:\doan\vukiennghi\BUS\bin\Debug\BUS.dll
+D:\doan\vukiennghi\BUS\bin\Debug\BUS.pdb
+D:\doan\vukiennghi\BUS\bin\Debug\EntityFramework.dll
+D:\doan\vukiennghi\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\doan\vukiennghi\BUS\bin\Debug\EntityFramework.xml
+D:\doan\vukiennghi\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\doan\vukiennghi\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\doan\vukiennghi\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\doan\vukiennghi\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\doan\vukiennghi\BUS\obj\Debug\BUS.dll
+D:\doan\vukiennghi\BUS\obj\Debug\BUS.pdb
+>>>>>>> 8d0b7f3cf6cc73e2ca8f3c9123a32dbde36bcbc6
