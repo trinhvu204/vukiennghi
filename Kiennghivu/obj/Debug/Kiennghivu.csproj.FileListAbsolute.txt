@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\bobmi\source\repos\Kiennghivu\Kiennghivu\bin\Debug\Kiennghivu.exe.config
 C:\Users\bobmi\source\repos\Kiennghivu\Kiennghivu\bin\Debug\Kiennghivu.exe
 C:\Users\bobmi\source\repos\Kiennghivu\Kiennghivu\bin\Debug\Kiennghivu.pdb
@@ -19,3 +20,27 @@ C:\Users\bobmi\source\repos\Kiennghivu\Kiennghivu\obj\Debug\Kiennghivu.csproj.Co
 C:\Users\bobmi\source\repos\Kiennghivu\Kiennghivu\obj\Debug\Kiennghivu.csproj.Up2Date
 C:\Users\bobmi\source\repos\Kiennghivu\Kiennghivu\obj\Debug\Kiennghivu.exe
 C:\Users\bobmi\source\repos\Kiennghivu\Kiennghivu\obj\Debug\Kiennghivu.pdb
+=======
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\Kiennghivu.exe.config
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\Kiennghivu.exe
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\Kiennghivu.pdb
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\BLL.dll
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\BUS.dll
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\EntityFramework.dll
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\EntityFramework.SqlServer.dll
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\BLL.pdb
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\BLL.dll.config
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\BUS.pdb
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\BUS.dll.config
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\EntityFramework.xml
+D:\doan\vukiennghi\Kiennghivu\bin\Debug\EntityFramework.SqlServer.xml
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.csproj.AssemblyReference.cache
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.Form1.resources
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.Form2.resources
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.Properties.Resources.resources
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.csproj.GenerateResource.cache
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.csproj.CoreCompileInputs.cache
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.csproj.Up2Date
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.exe
+D:\doan\vukiennghi\Kiennghivu\obj\Debug\Kiennghivu.pdb
+>>>>>>> 8d0b7f3cf6cc73e2ca8f3c9123a32dbde36bcbc6

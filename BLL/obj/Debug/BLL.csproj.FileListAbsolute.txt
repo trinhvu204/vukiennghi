@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BLL.dll.config
 C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BLL.dll
 C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BLL.pdb
@@ -13,3 +14,20 @@ C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.csproj.CoreCompileInput
 C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.csproj.Up2Date
 C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.dll
 C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.pdb
+=======
+D:\doan\vukiennghi\BLL\bin\Debug\BLL.dll.config
+D:\doan\vukiennghi\BLL\bin\Debug\BLL.dll
+D:\doan\vukiennghi\BLL\bin\Debug\BLL.pdb
+D:\doan\vukiennghi\BLL\bin\Debug\BUS.dll
+D:\doan\vukiennghi\BLL\bin\Debug\EntityFramework.dll
+D:\doan\vukiennghi\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\doan\vukiennghi\BLL\bin\Debug\BUS.pdb
+D:\doan\vukiennghi\BLL\bin\Debug\BUS.dll.config
+D:\doan\vukiennghi\BLL\bin\Debug\EntityFramework.xml
+D:\doan\vukiennghi\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\doan\vukiennghi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\doan\vukiennghi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\doan\vukiennghi\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\doan\vukiennghi\BLL\obj\Debug\BLL.dll
+D:\doan\vukiennghi\BLL\obj\Debug\BLL.pdb
+>>>>>>> 8d0b7f3cf6cc73e2ca8f3c9123a32dbde36bcbc6
