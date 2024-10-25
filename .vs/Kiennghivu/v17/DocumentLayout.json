@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|c:\\users\\bobmi\\source\\repos\\kiennghivu\\bus\\mofl\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|solutionrelative:bus\\mofl\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6983236E-EB5D-42D1-BB22-108580BD92D9}|Kiennghivu\\Kiennghivu.csproj|c:\\users\\bobmi\\source\\repos\\kiennghivu\\kiennghivu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983236E-EB5D-42D1-BB22-108580BD92D9}|Kiennghivu\\Kiennghivu.csproj|solutionrelative:kiennghivu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D491213-F681-4E47-87AB-26EFBB9F4939}|BLL\\BLL.csproj|c:\\users\\bobmi\\source\\repos\\kiennghivu\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D491213-F681-4E47-87AB-26EFBB9F4939}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6983236E-EB5D-42D1-BB22-108580BD92D9}|Kiennghivu\\Kiennghivu.csproj|C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\kiennghivu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6983236E-EB5D-42D1-BB22-108580BD92D9}|Kiennghivu\\Kiennghivu.csproj|solutionrelative:kiennghivu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|c:\\users\\bobmi\\source\\repos\\kiennghivu\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|solutionrelative:bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|solutionrelative:bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6983236E-EB5D-42D1-BB22-108580BD92D9}|Kiennghivu\\Kiennghivu.csproj|c:\\users\\bobmi\\source\\repos\\kiennghivu\\kiennghivu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6983236E-EB5D-42D1-BB22-108580BD92D9}|Kiennghivu\\Kiennghivu.csproj|solutionrelative:kiennghivu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9D491213-F681-4E47-87AB-26EFBB9F4939}|BLL\\BLL.csproj|C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D491213-F681-4E47-87AB-26EFBB9F4939}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\bus\\mofl\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77EDC60-9888-468A-AE39-69E0F254DF8F}|BUS\\BUS.csproj|solutionrelative:bus\\mofl\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +34,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\Kiennghivu\\Form1.cs",
+              "RelativeDocumentMoniker": "Kiennghivu\\Form1.cs",
+              "ToolTip": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\Kiennghivu\\Form1.cs",
+              "RelativeToolTip": "Kiennghivu\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:55:52.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\BUS\\App.config",
+              "RelativeDocumentMoniker": "BUS\\App.config",
+              "ToolTip": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\BUS\\App.config",
+              "RelativeToolTip": "BUS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-25T04:31:00.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Model1.cs",
               "DocumentMoniker": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\BUS\\mofl\\Model1.cs",
               "RelativeDocumentMoniker": "BUS\\mofl\\Model1.cs",
@@ -42,12 +79,11 @@
               "RelativeToolTip": "BUS\\mofl\\Model1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T04:10:41.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T04:10:41.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",
@@ -55,12 +91,11 @@
               "RelativeToolTip": "BLL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T04:06:09.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T04:06:09.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\BUS\\Class1.cs",
               "RelativeDocumentMoniker": "BUS\\Class1.cs",
@@ -68,24 +103,18 @@
               "RelativeToolTip": "BUS\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T04:05:47.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T04:05:47.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\Kiennghivu\\Form1.cs",
               "RelativeDocumentMoniker": "Kiennghivu\\Form1.cs",
               "ToolTip": "C:\\Users\\bobmi\\source\\repos\\Kiennghivu\\Kiennghivu\\Form1.cs [Design]",
               "RelativeToolTip": "Kiennghivu\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T04:05:17.945Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2024-10-25T04:05:17.945Z"
             }
           ]
         }

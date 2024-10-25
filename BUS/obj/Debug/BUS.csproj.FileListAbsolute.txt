@@ -1,0 +1,12 @@
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\BUS.dll.config
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\BUS.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\BUS.pdb
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\EntityFramework.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\EntityFramework.xml
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BUS\obj\Debug\BUS.pdb

@@ -16,5 +16,15 @@ namespace Kiennghivu
         {
             InitializeComponent();
         }
+
+        private void bindingNavigator2_RefreshItems(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bindingNavigatorMoveNextItem1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

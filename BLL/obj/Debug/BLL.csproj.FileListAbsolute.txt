@@ -1,0 +1,15 @@
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BLL.dll.config
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BLL.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BLL.pdb
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BUS.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\EntityFramework.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BUS.pdb
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\BUS.dll.config
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\EntityFramework.xml
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.dll
+C:\Users\bobmi\source\repos\Kiennghivu\BLL\obj\Debug\BLL.pdb
